@@ -9,6 +9,7 @@ The final presentation to the mock customer at the end.
 The supportability of the solution.
 Cost of implementation.
 Incorporating new stack features into your solution.
+Peer voting.
 
 
 Build a solution to support the following use case:
