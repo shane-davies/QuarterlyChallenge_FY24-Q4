@@ -16,3 +16,7 @@ old nhl data project for elastic- https://www.elastic.co/blog/kibana-and-a-custo
 other -
 ingest pipeline mon- https://github.com/jeffvestal/ingest_pipeline_metrics/tree/main
 https://github.com/streamlit/streamlit
+
+
+GCP Security-
+https://cloud.google.com/security-command-center/docs/how-to-configure-scc-elastic-stack-docker
