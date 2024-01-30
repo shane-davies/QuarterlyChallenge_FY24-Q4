@@ -5,11 +5,12 @@
 The challenge's goal is to work with a team to create a solution that will be presented at the end of the quarter.  The idea is to use your enablement time to collaborate with a team to help solve the use case.  You have been paired with a team with experience across our product's different pillars (Search, Security, and Observability).   This is an opportunity to get experience in different areas of the product and also explore the new and best ways to solve these problems.  There will also be a mock customer team that will help answer and guide the challenge along the way.  Any data sets or ways of exploring the solutions in Elastic will be shared with all the teams.
 
 The challenge will be scored on the following:
-The final presentation to the mock customer at the end.
-The supportability of the solution.
-Cost of implementation.
-Incorporating new stack features into your solution.
-Peer voting.
+- The final presentation to the mock customer at the end.
+- The supportability of the solution.
+- Cost of implementation.
+- Incorporating new stack features into your solution.
+
+*** The winner will be voted on by your peers.
 
 
 Build a solution to support the following use case:
